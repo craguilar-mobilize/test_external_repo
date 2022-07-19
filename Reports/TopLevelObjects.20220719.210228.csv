@@ -1,0 +1,5 @@
+PartitionKey,FileType,ObjectName,HighLevelObject,ObjectDB,FileName,LineNumber,LinesOfCode,EWIsNumber,HighestEWISeverity,UDFsUsed,EWIs,CharacterCount,ConversionStatus,CharacterConversionPercentage,LoCConversionPercentage
+b414afdb-eccd-4ca8-a4be-b9922ead01f0,SQL,UpdateDemoUsers,PROCEDURE,<NoDB>.<NoSchema>.<NoPackage>,CLI_ORA/Source_Code.sql,45,16,1,Medium,,MSCEWI3111,295,Partial,97%,94%
+b414afdb-eccd-4ca8-a4be-b9922ead01f0,SQL,InsertDemoUsers,PROCEDURE,<NoDB>.<NoSchema>.<NoPackage>,CLI_ORA/Source_Code.sql,28,11,1,Medium,,MSCEWI3111,276,Partial,97%,91%
+b414afdb-eccd-4ca8-a4be-b9922ead01f0,SQL,View_DemoUsers,VIEW,<NoDB>.<NoSchema>.<NoPackage>,CLI_ORA/Source_Code.sql,22,4,0,,,,131,Success,100%,100%
+b414afdb-eccd-4ca8-a4be-b9922ead01f0,SQL,DemoUsers,TABLE,<NoDB>.<NoSchema>.<NoPackage>,CLI_ORA/Source_Code.sql,2,9,0,,,,179,Success,100%,100%
